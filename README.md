@@ -1,18 +1,13 @@
 ![Certificate](https://user-images.githubusercontent.com/44305804/85444895-1aa40c00-b593-11ea-9d94-ac537eb05f04.jpg)
 
 # Udacity-Deep-Learning-Nanodegree
-This repository's purpose in to document my projects submission to Udacity's [Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+This repository's purpose  my projects submission 
 
 To Run any of the projects on your local machine please run these commands to create a conda environment
 ```
 conda env create -f environment.yml
 conda activate deep-learning
 ```
-
-![project1](https://user-images.githubusercontent.com/44305804/83665787-33d91e80-a5cc-11ea-80d4-1c2313e06db5.png)
-Implemented a neural network from scratch in NumPy to predict bike rentals.
-
-Data Set Size: 17379 Records
 
 Dataset<br>
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
@@ -36,7 +31,7 @@ Dataset<br>
 
 ------
 
-![project3](https://user-images.githubusercontent.com/44305804/83665793-350a4b80-a5cc-11ea-8915-9f955bbd8a80.png)
+
 
 In this project, i generated Seinfeld TV scripts using RNNs. The Neural Network will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
